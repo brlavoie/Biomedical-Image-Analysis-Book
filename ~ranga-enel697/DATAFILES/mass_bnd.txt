@@ -1,0 +1,22 @@
+
+Filename convention:
+
+circ: Circumscribed
+spic: spiculated
+
+db/dm/fb/fm/etc.:
+d: dense breast
+f: fatty breast
+g: glandular
+m: malignant
+b: benign
+
+three-digit no.: MIAS (Mammographic Image Analysis Society) Database case no.
+
+files with longer names and numbers: Foothills Hospitla Calgary teaching cases, all malignant
+
+spatial resolution: MIAS 50 micrometer; Calgary 62 micrometer
+
+each entry in a .bnd file has the
+x y gray-level
+values for a boundary pixel. All boundaries are closed loops.

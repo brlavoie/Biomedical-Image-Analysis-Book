@@ -1,0 +1,18 @@
+
+tumor shape factors from the work of Naga Mudigonda
+R.M. Rangayyan, N.R. Mudigonda, and J.E.L. Desautels, 2000,
+"Boundary modeling and shape analysis
+methods for classification of mammographic masses",
+Medical and Biological Engineering and Computing, 38(5):487-496.
+
+col 1: 1 = benign mass (28), 2 = malignant tumor (26)
+
+col 2: compactness, modified to be in the range (0, 1)
+
+col 3: fcc/fcx (see next two columns)
+
+col 4: fractional convexity fcx in the range (0, 1)
+
+col 5: fractional concavity fcc in the range (0, 1)
+
+col 6: spiculation index SI in the range (0, 2)
