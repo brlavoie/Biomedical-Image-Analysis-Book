@@ -1,6 +1,6 @@
-# Repository of supplementary materials for Biomedical Image Analysis, 2nd Edition
+# Repository of supplementary materials for Biomedical Image Analysis
 
-Here you will find all the supplementary materials related to the second edition of the book **Biomedical Image Analysis**, by _Rangayyan_ et al.
+Here you will find all the supplementary materials related to the book **Biomedical Image Analysis**, by _Rangayyan_ and _Lavoie_.
 
 This file is incomplete and mainly contains (below) a template on markdown language's features and usage.
 
